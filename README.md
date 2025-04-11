@@ -2,7 +2,8 @@
 
 This is a console-based Tic Tac Toe game developed in Python. The game supports two players who take turns marking the board. It checks for winning conditions and detects draws, providing an interactive gaming experience right in your terminal.
 
-Features Implemented
+>>>Features Implemented
+
 
 A dynamic 3×3 game board display.
 
